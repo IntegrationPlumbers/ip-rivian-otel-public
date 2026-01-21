@@ -47,7 +47,7 @@ uv pip install -r requirements.txt
 To run the collector
 ```shell
 # From within ip-rivian-otel-public/
-uv run main.py
+uv run rivian_collector.py
 
 ```
 
