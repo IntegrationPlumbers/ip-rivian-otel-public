@@ -1,0 +1,4 @@
+[submodule "rivian-python-api"]
+	path = ip_rivian_otel/rivian_python_api
+	url = git@github.com:the-mace/rivian-python-api.git
+
